@@ -1,5 +1,5 @@
 site_name: Java Lab 
 theme: 
-  name: material
+  name: mkdocs
   palette:
     primary: red
