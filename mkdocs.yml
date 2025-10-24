@@ -1,0 +1,5 @@
+site_name: Java Lab 
+theme: 
+  name: material
+  palette:
+    primary: red
